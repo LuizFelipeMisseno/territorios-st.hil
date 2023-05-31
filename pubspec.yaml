@@ -1,0 +1,67 @@
+name: territorio
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_map: ^3.1.0
+  geodesy: ^0.4.0-nullsafety.0
+  latlong2: ^0.8.1
+  sembast: ^3.4.0+6
+  path_provider: ^2.0.13
+  uuid: ^3.0.7
+  shared_preferences: ^2.0.18
+  provider: ^6.0.5
+  pdf: ^3.9.0
+  printing: ^5.10.1
+  syncfusion_flutter_pdfviewer: ^20.4.53
+  file_picker: ^5.2.6
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
